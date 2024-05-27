@@ -1,0 +1,12 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Steven Leong",
+  "classifications": [ "Console", "Packt" ],
+  "identity": "Packt.ConsolePlus.CSharp",
+  "name": "Packt Console+ App",
+  "shortName": "consoleplus",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}

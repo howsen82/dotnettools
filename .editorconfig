@@ -1,0 +1,8 @@
+# Top-most .editorconfig file.
+root = true
+
+# This two-space indent rule only applies to C# code files.
+[*.cs]
+indent_style = space
+indent_size = 2
+dotnet_diagnostic.IDE0005.severity = none
